@@ -1,0 +1,16 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.github.com" resolutions="1x" timestamp="1532404306047">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="3779095290" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="未标题-1-crop-u99.png" crc="137393687" ref="index"/>
+    <file name="qq浏览器截图20180723153604.jpg" crc="396845098" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="428217533" seo="true" mt="1532404274968" redirect="true"/>
+</manifest>
